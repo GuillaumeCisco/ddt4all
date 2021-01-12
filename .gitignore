@@ -11,3 +11,7 @@ __pycache__/
 
 ### IDE generic ###
 /.vscode/
+
+.idea
+.DS_Store
+venv

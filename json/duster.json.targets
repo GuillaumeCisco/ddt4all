@@ -1,0 +1,44 @@
+[
+ {
+  "diagnostic_version": "5",
+  "supplier_code": "0001",
+  "soft_version": "1428",
+  "version": "0410",
+  "group": "HFM",
+  "projects": [
+   "xHAPh2",
+   "xJC",
+   "xJD"
+  ],
+  "protocol": "CAN",
+  "address": "C0"
+ },
+ {
+  "diagnostic_version": "5",
+  "supplier_code": "0001",
+  "soft_version": "1428",
+  "version": "0420",
+  "group": "HFM",
+  "projects": [
+   "xHAPh2",
+   "xJC",
+   "xJD"
+  ],
+  "protocol": "CAN",
+  "address": "C0"
+ },
+ {
+  "diagnostic_version": "5",
+  "supplier_code": "0001",
+  "soft_version": "1428",
+  "version": "0420",
+  "group": "HFM",
+  "projects": [
+   "xHAPh2",
+   "xJC",
+   "xJD"
+  ],
+  "protocol": "CAN",
+  "address": "C0"
+ }
+]
